@@ -36,8 +36,8 @@ Discover pieces of shows or history. Take a moment to reflect on animation style
 ### Why are some pieces on the wall so small?
 Some of the artwork on the wall is based off of a physical piece in the collection, such as prints, storyboards, or keyframes. They are shown in accurate to their size in the virtual museum.
 
-### How do I move in the virual museum?
+### How do I move in the virtual museum?
 WASD to move, drag left click to look.
 
-### The virual museum has a very low framerate.
+### The virtual museum has a very low framerate.
 Ensure that hardware acceleration is enabled in your web browser.
