@@ -8,13 +8,19 @@ The permanent exhibit features to scale prop replicas aligned with art from the 
 
 ### Main Room
 
+![main room](https://github.com/pham-andrew/anime.museum/blob/main/public/main.PNG?)
+
 In the main room you'll find prop replicas aligned with art from their respective anime. All the prop replicas are existing licensed products we have 3D scanned or placeholders for props we hope to acquire and scan in the future.
 
 ### Back Room
 
+![back room](https://github.com/pham-andrew/anime.museum/blob/main/public/back.PNG?)
+
 The current temporary exhibit is art from the movie "Your Name", a supernatural, romance, drama showing off beautifully drawn skies.
 
 ### Outside
+
+![outside](https://github.com/pham-andrew/anime.museum/blob/main/public/outside.PNG?)
 
 Outside you will find a collection of various informational exhibits on animation showcases, keyframes, musical breakdown, subbing/dubbing, and others.
 
