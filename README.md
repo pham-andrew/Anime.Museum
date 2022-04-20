@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# Welcome to the Anime Museum
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Anime Museum is a virtual museum with hopes to one day host a physical exhibit. Thanks for visiting!
 
-## Available Scripts
+## Exhibits
 
-In the project directory, you can run:
+The permanent exhibit features to scale prop replicas aligned with art from the anime. The temporary exhibit in the back room currently features art from the movie "Your Name".
 
-### `npm start`
+### Main Room
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+In the main room you'll find prop replicas aligned with art from their respective anime. All the prop replicas are existing licensed products we have 3D scanned or placeholders for props we hope to acquire and scan in the future.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Back Room
 
-### `npm test`
+The current temporary exhibit is art from the movie "Your Name", a supernatural, romance, drama showing off beautifully drawn skies.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Outside
 
-### `npm run build`
+Outside you will find a collection of various informational exhibits on animation showcases, keyframes, musical breakdown, subbing/dubbing, and others.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Acquisition / Scanning Efforts
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Efforts are currently underway to 3D scan Zero's helmet from "Code Geass". The museum has is acquiring a proplica of Tengen Uzui's Nichirin swords to scan. The museum desires to acquire a divergence meter from "Steins;Gate"; however, very few of these were made. If anyone has a divergence meter they'd be willing to loan the museum for scanning, please contact us.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## FAQ
 
-### `npm run eject`
+### Why would I go to a museum when I can watch anime?
+For informational purposes and to see the prop replicas in person (one day when this becomes a physical exhibit).
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Why are some of the pieces on the wall so small?
+Some of the artwork on the wall is based off of a physical piece in the collection, such as prints, storyboards, or keyframes. They are shown in accurate to their size in the virtual museum.

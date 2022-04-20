@@ -1,5 +1,6 @@
 {
   "name": "anime.museum",
+  "homepage": "http://anime.museum/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
