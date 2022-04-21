@@ -1,24 +1,24 @@
-# Welcome to the Anime Museum
+# Welcome to The Anime Museum
 
 The Anime Museum is a virtual museum with hopes to one day host a physical exhibit. Thanks for visiting!
 
-## Exhibits
+## [Exhibits](https://github.com/pham-andrew/anime.museum/wiki/Exhibits)
 
 The permanent exhibit features to scale prop replicas aligned with art from the anime. The temporary exhibit in the back room currently features art from the movie "Your Name".
 
-### Main Room
+### Main Room: Prop Replicas
 
 ![main room](https://github.com/pham-andrew/anime.museum/blob/main/public/main.PNG?)
 
 In the main room you'll find prop replicas aligned with art from their respective anime. All the prop replicas are existing licensed products we have 3D scanned or placeholders for props we hope to acquire and scan in the future.
 
-### Back Room
+### Back Room: Your Name
 
 ![back room](https://github.com/pham-andrew/anime.museum/blob/main/public/back.PNG?)
 
 The current temporary exhibit is art from the movie "Your Name", a supernatural, romance, drama showing off beautifully drawn skies.
 
-### Outside
+### Outside: Animation Highlights, Musical Highlight, Translations, Others
 
 ![outside](https://github.com/pham-andrew/anime.museum/blob/main/public/outside.PNG?)
 
