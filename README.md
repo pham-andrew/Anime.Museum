@@ -1,6 +1,6 @@
 # Welcome to The Anime Museum
 
-The Anime Museum is a virtual museum with hopes to one day host a physical exhibit. Thanks for visiting!
+The Anime Museum is a virtual museum with hopes to one day host a physical exhibit. Visit the virtual museum by clicking the link in the about section. Thanks for visiting!
 
 ## [Exhibits](https://github.com/pham-andrew/anime.museum/wiki/Exhibits)
 
