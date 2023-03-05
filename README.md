@@ -41,5 +41,3 @@ WASD to move, drag left click to look.
 
 ### The virtual museum has a very low framerate.
 Ensure that hardware acceleration is enabled in your web browser.
-
-Favicon Credit: Illustration 118387390 / Anime Pixel Girl © Saphatthachat Sunchoote
